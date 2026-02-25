@@ -26,4 +26,4 @@ A native Android Variable Length Subnet Masking (VLSM) calculator and network to
 <img width="391" height="797" alt="image" src="https://github.com/user-attachments/assets/ae183b4e-535b-4261-b0bc-cccaa6124421" />
 
 
-Built on TEARS, By Students For Students.
+## Built on TEARS, By Students For Students.
