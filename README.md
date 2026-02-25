@@ -1,6 +1,6 @@
 # VLSim - Network Topology Engine
 
-Special thanks to Nico for the original concept and logic inspiration. You can view the original web-based implementation here: https://nicoooo-23.github.io/VLSM-Calculator/
+Special thanks to nicoooo-23 for the original concept and logic inspiration. You can view the original web-based implementation here: https://nicoooo-23.github.io/VLSM-Calculator/
 
 ## Overview
 A native Android Variable Length Subnet Masking (VLSM) calculator and network topology engine. This engineering tool calculates optimal IP allocations for complex network topologies to prevent IP overlap. 
