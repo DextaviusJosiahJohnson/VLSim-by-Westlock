@@ -9,7 +9,6 @@ A native Android Variable Length Subnet Masking (VLSM) calculator and network to
 * **Dynamic Topology Calculation:** Automatically sorts and allocates subnets based on required host sizes using the VLSM method.
 * **Comprehensive Network Modeling:** Supports configuring and linking complex relationships between Routers, Switches, distinct WAN links, and individual Devices.
 * **Persistent Storage:** Users can save, load, and manage network configurations locally on the device.
-* **Modern UI:** Built with a custom, high-contrast dark theme utilizing zero-rounded corners for a technical, hardware-focused aesthetic.
 
 ## Tech Stack & Architecture
 * **Language:** 100% Kotlin
